@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/Jesse/Projects/C++/DataSorter/SortController.cpp
+SortController.h
+/cygdrive/d/Jesse/Projects/C++/DataSorter/SortController.h
+
+/cygdrive/d/Jesse/Projects/C++/DataSorter/SortController.h
+regex
+-
+chrono
+-
+iostream
+-
+fstream
+-
+string
+-
+
+/cygdrive/d/Jesse/Projects/C++/DataSorter/main.cpp
+iostream
+-
+regex
+-
+SortController.h
+/cygdrive/d/Jesse/Projects/C++/DataSorter/SortController.h
+

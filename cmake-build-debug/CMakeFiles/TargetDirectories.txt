@@ -1,0 +1,3 @@
+/cygdrive/d/Jesse/Projects/C++/DataSorter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/d/Jesse/Projects/C++/DataSorter/cmake-build-debug/CMakeFiles/Ass3_DataSorter.dir
+/cygdrive/d/Jesse/Projects/C++/DataSorter/cmake-build-debug/CMakeFiles/edit_cache.dir

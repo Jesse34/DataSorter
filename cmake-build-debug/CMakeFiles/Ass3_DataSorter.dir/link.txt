@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Ass3_DataSorter.dir/main.cpp.o CMakeFiles/Ass3_DataSorter.dir/SortController.cpp.o  -o Ass3_DataSorter.exe -Wl,--out-implib,libAss3_DataSorter.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
